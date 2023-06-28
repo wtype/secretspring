@@ -1,21 +1,22 @@
 {
-    "name": "secretspring",
-    "displayName": "secretspring",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.46.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "secretspring",
-                "uiTheme": "vs-dark",
-                "path": "./themes/secretspring-color-theme.json"
-            }
-        ]
-    }
+  "name": "secretspring",
+  "author": "wtype",
+  "displayName": "secretspring",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.46.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "secretspring",
+        "uiTheme": "vs-dark",
+        "path": "./themes/secretspring-color-theme.json"
+      }
+    ]
+  }
 }
