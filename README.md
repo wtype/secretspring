@@ -4,7 +4,9 @@ Dark VS Code theme.
 
 ## Install
 
-https://marketplace.visualstudio.com/items?itemName=wildtype.secretspring
+**[VS Code Themes](https://vscodethemes.com/e/wildtype.secretspring/secretspring)**
+
+**[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=wildtype.secretspring)**
 
 ## Screenshots
 
