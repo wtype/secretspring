@@ -3,7 +3,8 @@
   "author": "wtype",
   "displayName": "secretspring",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "icon": "images/secretspring.png",
   "engines": {
     "vscode": "^1.46.0"
   },
