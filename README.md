@@ -11,3 +11,11 @@ Dark VS Code theme.
 ## Screenshots
 
 ![secretspring theme TypeScript](https://github.com/wtype/secretspring/blob/main/images/Code%20Sample.png)
+
+![HTML](https://vscodethemes.com/e/wildtype.secretspring/secretspring.svg?language=html)
+
+![CSS](https://vscodethemes.com/e/wildtype.secretspring/secretspring.svg?language=css)
+
+![Python](https://vscodethemes.com/e/wildtype.secretspring/secretspring.svg?language=python)
+
+![Go](https://vscodethemes.com/e/wildtype.secretspring/secretspring.svg?language=go)
