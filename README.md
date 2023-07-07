@@ -2,4 +2,10 @@
 
 Dark VS Code theme.
 
-![secretspring theme TypeScript](https://github.com/wtype/secretspring/raw/master/images/Code%20Sample.png)
+## Install
+
+https://marketplace.visualstudio.com/items?itemName=wildtype.secretspring
+
+## Screenshots
+
+![secretspring theme TypeScript](https://github.com/wtype/secretspring/blob/main/images/Code%20Sample.png)
