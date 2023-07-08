@@ -2,10 +2,10 @@
   "name": "secretspring",
   "author": "wtype",
   "displayName": "secretspring",
-  "description": "Calm dark VS Code theme.",
-  "version": "0.0.3",
+  "description": "Calm, dark blue and green VS Code theme.",
+  "version": "0.0.5",
   "license": "MIT",
-  "icon": "images/secretspring.png",
+  "icon": "images/secretspring_icon.png",
   "publisher": "wildtype",
   "repository": "https://github.com/wtype/secretspring",
   "engines": {
