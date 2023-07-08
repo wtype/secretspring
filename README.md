@@ -1,5 +1,7 @@
 # Secret Spring
 
+<img width="195" src="https://github.com/wtype/secretspring/blob/main/images/secretspring_icon.png" />
+
 Dark VS Code theme.
 
 ## Install
