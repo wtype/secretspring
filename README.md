@@ -4,6 +4,8 @@
 
 Dark VS Code theme.
 
+I believe was originally based off of [Night Owl's](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl) JSON file.
+
 ## Install
 
 **[VS Code Themes](https://vscodethemes.com/e/wildtype.secretspring/secretspring)**
